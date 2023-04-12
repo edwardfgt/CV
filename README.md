@@ -3,8 +3,7 @@
 <h1 id="about-me"> About Me </h1>
 I am a resilient and driven full-stack developer with a deep passion for learning in all areas of life. I recently graduated from Makers Academy Bootcamp, where I gained valuable experience collaborating on multiple team projects and pair programming daily. I have the ability to pick up new languages and frameworks quickly and have a solid understanding of object-oriented languages such as Ruby and JavaScript.
 
-Before Makers I worked in Digital Marketing, but have always had a passion for tech. Over the past year I also co-founded a collection of newsletters covering Finance, AI & Crypto, which grew to over 25,000 readers and 400,000 total impressions.
-
+Before Makers I worked in Digital Marketing, but have always had a passion for tech. Over the past year I also co-founded a collection of newsletters covering Finance, AI & Crypto, which grew to over 25,000 readers and 400,000 total impressions. 
 Outside of work I love studying Mandarin. I have been studying Mandarin for nearly 5 years now, and had the opportunity to improve my speaking ability first hand whilst studying in Taiwan. I still spend my weekends communicating with my Chinese teacher and learning new vocabulary.
 
 <h1 id="projects"> My Favourite Projects <img src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e470f0oewhhv0rz77jd5i3g92pnd9ifisk3u2ymxxv5&rid=giphy.gif&ct=g" width="75" ></h1>
@@ -12,6 +11,8 @@ Outside of work I love studying Mandarin. I have been studying Mandarin for near
 | Name                         | Description                                                                                     | Tech/tools                          |
 | ---------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
 |  [**Japanese Learning RPG**](https://github.com/edwardfgt/Japanese-learning-RPG)             | A gamified Japanese language learning web application.| React, JavaScript, Node, MongoDB, Express, Redux Toolkit, Redux Persist, HTML, CSS, Tailwind, Jest, Cypress, ESLint, Mongoose |
+|  [**Acebook**](https://github.com/edwardfgt/acebook)             | Working from an existing codebase to develop a social media clone.| MERN Stack, React, JavaScript, Node, MongoDB, Express, HTML, CSS, Jest, Cypress, Mongoose |
+|  [**Chitter**](https://github.com/edwardfgt/chitter-challenge)             | A weekend project to clone Twitter.| Ruby, Sinatra, Postgresql, Rspec,  |
 
 <h1 id="education"> Education </h1>
 
