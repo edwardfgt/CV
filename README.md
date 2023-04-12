@@ -1,69 +1,79 @@
-## Your Name
+<h1 align="center"> Hi I'm <a href="https://www.linkedin.com/in/edwardthomas99/">Edward</a> </h1>
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+<h1 id="about-me"> About Me </h1>
 
-## Projects
+<h1 id="projects"> My Favourite Projects <img src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e470f0oewhhv0rz77jd5i3g92pnd9ifisk3u2ymxxv5&rid=giphy.gif&ct=g" width="75" ></h1>
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                                                                                     | Tech/tools                          |
+| ---------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
+|  [**Japanese Learning RPG**](https://github.com/edwardfgt/Japanese-learning-RPG)             | A gamified Japanese language learning web application.| React, JavaScript, Node, MongoDB, Express, Redux Toolkit, Redux Persist, HTML, CSS, Tailwind, Jest, Cypress, ESLint, Mongoose |
 
-## Work Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-## Skills
-
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+<h1 id="education"> Education </h1>
 
 
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
+#### Makers Academy (December 2022 - April 2023)
+-   Full stack Software Engineering
+-   Collaborated on multiple team projects and pair programming sessions using agile principles
+-   Test-driven development: unit & integration testing with Jest, Cypress & Rspec
+-   Object-oriented languages: Ruby & JavaScript
+-   MERN stack
+-   Solid debugging processes
+-   Databases: SQL, Postgres, TablePlus, MongoDB, Mongoose
+-   Frequently used branch/PR/merge git workflow and code reviews
 
 
-## Education
+#### Nottingham Trent University (May 2021 - August 2021)
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+-   International Business with Chinese
+-   Grade: 1st
+-   Helped me develop a broad understanding of the business world and to practice analytical skills.
+-   Modules including: Economics, Global Supply Chain, Quantitative Methods, Accounting & Finance, Chinese
+-   Research Project: Will Bitcoin Replace FIAT?
+-   Activities and societies: International Business Society, Investment and Trading Society
 
-#### Your University / College (start_date to end_date)
+#### I-Shou University (2019 - 2020)
+-   5 month exchange program in Kaohsiung, Taiwan
+-   Working in diverse teams to improve cross-cultural communication skills
+-   Improve my Mandarin ability with Chinese classes and practice outside of class
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+<h1 id="work"> Work Experience </h1>
 
-#### Any other qualifications
+**Journals GG** (April 2022 - Ongoing)  
+**_Co-founder_**
 
-That in some arguable way make you a better software developer or well-rounded person
+-   Co-founded a collection of newsletters covering Finance, AI & Crypto with over 25,000 readers and 400,000 total impressions.
+-   Analysed data and conducted split tests to improve metrics such as open rates & CTRs
+-   Negotiated with advertisers to bulk-buy ad packages.
 
-## Hobbies
+**Anuncia** 
+_**Business Development Specialist**_ (June 2021 - April 2022)  
 
-Any cool stuff that makes you a super part of a software development team
+-   Led an entire website overhaul
+-   Managed an Apprentice’s day to day workload 
+-   Analysed and built new marketing funnels including a cold email strategy
+-   Prospect nurtured, made sales calls and created business proposals
+
+_**Lead Generation Part-time**_ (October 2020 - May 2021)
+
+-   Continued working at Anuncia part-time (1-2 days per week) whilst finishing my final year.
+
+ _**Digital Marketing Assistant**_ (March 2020 - October 2020)
+-   Placement during my 3rd year at university
+-   Optimised, tested, and managed the performance of client accounts
+-   Trained in Google Ads, Google Analytics, GTM, Google Search Console, Basic SEO
+
+
+<h1 id="skills"> Skills </h1>
+
+***Teamwork*** <br/>
+
+
+***Organisation & Disclipline*** <br/>
+
+
+
+
+
+<h1 id="hobbies"> Hobbies </h1>
+
+📖 I'm a massive fan of reading both non-fiction and fiction. Two books I recently read and really enjoyed are Red Notice by Bill Browder and This Is How They Tell Me The World Ends by Nicole Perlroth. Next on my list is The Brothers Karamazov.
