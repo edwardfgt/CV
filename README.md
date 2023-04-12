@@ -51,18 +51,18 @@ Outside of work I love studying Mandarin. I have been studying Mandarin for near
 -   Negotiated with advertisers to bulk-buy ad packages.
 
 **Anuncia** (March 2020 - April 2022) <br/>
-**Business Development Specialist** (June 2021 - April 2022)  
+_**Business Development Specialist**_ (June 2021 - April 2022)  
 
 -   Led an entire website overhaul
 -   Managed an Apprentice’s day to day workload 
 -   Analysed and built new marketing funnels including a cold email strategy
 -   Prospect nurtured, made sales calls and created business proposals
 
-**Lead Generation Part-time** (October 2020 - May 2021)
+_**Lead Generation Part-time**_ (October 2020 - May 2021)
 
 -   Continued working at Anuncia part-time (1-2 days per week) whilst finishing my final year.
 
-**Digital Marketing Assistant** (March 2020 - October 2020)
+ _**Digital Marketing Assistant**_ (March 2020 - October 2020)
 -   Placement during my 3rd year at university
 -   Optimised, tested, and managed the performance of client accounts
 -   Trained in Google Ads, Google Analytics, GTM, Google Search Console, Basic SEO
@@ -71,16 +71,23 @@ Outside of work I love studying Mandarin. I have been studying Mandarin for near
 <h1 id="skills"> Skills </h1>
 
 ***Teamwork*** <br/>
-
+During my tenure at Makers, I participated in three large-scale group projects as well as engaging in frequent pair programming on a daily basis. This experience has equipped me with the skills to comfortably collaborate on projects, and has given me the confidence to take on leadership positions when required.
 
 ***Organisation & Disclipline*** <br/>
+I possess strong organizational skills, which I have applied in my previous role at Anuncia, where we utilized Trello for work sprints, as well as in my personal life, where I have used Toggl to track my time and Notion to manage previous projects. I am well-versed in Agile methodologies and have utilized them effectively in the past.
 
 ***Continuous Development*** <br/>
+I strongly believe in the concept of growth mindsets and continuous learning. I am passionate about learning in all areas of life, and am equally comfortable exploring new technologies and expanding my knowledge of other topics, such as the economy, geo-politics, and more.
 
-
-
+***Communication*** <br/>
+As the founder of my own newsletter company, I have had numerous opportunities to hone my communication skills while networking and selling advertisement slots to a diverse range of companies in various industries, including tech, finance, beverage, and hospitality. Additionally, while studying in Taiwan, I gained invaluable experience in cross-cultural communication, as I worked with diverse teams with clashing work cultures in group projects.
 
 
 <h1 id="hobbies"> Hobbies </h1>
 
 📖 I'm a massive fan of reading both non-fiction and fiction. Two books I recently read and really enjoyed are Red Notice by Bill Browder and This Is How They Tell Me The World Ends by Nicole Perlroth. Next on my list is The Brothers Karamazov.
+
+☕ I love Coffee, both making it myself and trying new cafes. I have a long list of my favourite cafes in London, if you would like some recommendations, let me know!
+
+🧗‍♂️ It seems like every software engineer likes to climb, and of course that includes me. I've been bouldering on and off over the past few years, unfortunately I got into it right as the pandemic started and therefore didn't get to climb as much as I wanted to. Now that I have moved to London there is a variety of new gyms to try and I can't wait to explore more. 
+
