@@ -1,6 +1,11 @@
 <h1 align="center"> Hi I'm <a href="https://www.linkedin.com/in/edwardthomas99/">Edward</a> </h1>
 
 <h1 id="about-me"> About Me </h1>
+I am a resilient and driven full-stack developer with a deep passion for learning in all areas of life. I recently graduated from Makers Academy Bootcamp, where I gained valuable experience collaborating on multiple team projects and pair programming daily. I have the ability to pick up new languages and frameworks quickly and have a solid understanding of object-oriented languages such as Ruby and JavaScript.
+
+Before Makers I worked in Digital Marketing, but have always had a passion for tech. Over the past year I also co-founded a collection of newsletters covering Finance, AI & Crypto, which grew to over 25,000 readers and 400,000 total impressions.
+
+Outside of work I love studying Mandarin. I have been studying Mandarin for nearly 5 years now, and had the opportunity to improve my speaking ability first hand whilst studying in Taiwan. I still spend my weekends communicating with my Chinese teacher and learning new vocabulary.
 
 <h1 id="projects"> My Favourite Projects <img src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e470f0oewhhv0rz77jd5i3g92pnd9ifisk3u2ymxxv5&rid=giphy.gif&ct=g" width="75" ></h1>
 
@@ -45,19 +50,19 @@
 -   Analysed data and conducted split tests to improve metrics such as open rates & CTRs
 -   Negotiated with advertisers to bulk-buy ad packages.
 
-**Anuncia** 
-_**Business Development Specialist**_ (June 2021 - April 2022)  
+**Anuncia** (March 2020 - April 2022) <br/>
+**Business Development Specialist** (June 2021 - April 2022)  
 
 -   Led an entire website overhaul
 -   Managed an Apprentice’s day to day workload 
 -   Analysed and built new marketing funnels including a cold email strategy
 -   Prospect nurtured, made sales calls and created business proposals
 
-_**Lead Generation Part-time**_ (October 2020 - May 2021)
+**Lead Generation Part-time** (October 2020 - May 2021)
 
 -   Continued working at Anuncia part-time (1-2 days per week) whilst finishing my final year.
 
- _**Digital Marketing Assistant**_ (March 2020 - October 2020)
+**Digital Marketing Assistant** (March 2020 - October 2020)
 -   Placement during my 3rd year at university
 -   Optimised, tested, and managed the performance of client accounts
 -   Trained in Google Ads, Google Analytics, GTM, Google Search Console, Basic SEO
@@ -69,6 +74,8 @@ _**Lead Generation Part-time**_ (October 2020 - May 2021)
 
 
 ***Organisation & Disclipline*** <br/>
+
+***Continuous Development*** <br/>
 
 
 
