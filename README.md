@@ -72,10 +72,13 @@ _**Lead Generation Part-time**_ (October 2020 - May 2021)
 <h1 id="skills"> Skills </h1>
 
 ***Teamwork*** <br/>
-During my tenure at Makers, I participated in three large-scale group projects as well as engaging in frequent pair programming on a daily basis. This experience has equipped me with the skills to comfortably collaborate on projects, and has given me the confidence to take on leadership positions when required.
+During my time at Makers, I participated in three large group projects as well as engaging in frequent pair programming on a daily basis which taught me the value of collaborating with others to solve problems, sharing knowledge and skills, and working towards a common goal. This opportunity allowed me to develop a deeper understanding of the code and its functionality, whilst also learning new approaches to problem-solving from my partner. Additionally, it enabled me to provide constructive feedback and suggestions for improvement, as well as receive valuable feedback from my pair programming partner.
 
 ***Organisation & Disclipline*** <br/>
 I possess strong organizational skills, which I have applied in my previous role at Anuncia, where we utilized Trello for work sprints, as well as in my personal life, where I have used Toggl to track my time and Notion to manage previous projects. I am well-versed in Agile methodologies and have utilized them effectively in the past.
+
+***Commercial Awareness*** <br/>
+I have the ability to understand customer needs. My experience working with clients at Anuncia and my newsletter business has taught me the importance of putting the customer at the centre of the design process and constantly iterating to improve their experience. Whilst working on my newsletters, I had the chance to think critically about the content and layout of our emails to ensure that our subscribers had a great experience with our brand. By analyzing metrics such as open rates and click-through rates, I was able to optimize our newsletter to increase engagement and provide more value to our audience.
 
 ***Continuous Development*** <br/>
 I strongly believe in the concept of growth mindsets and continuous learning. I am passionate about learning in all areas of life, and am equally comfortable exploring new technologies and expanding my knowledge of other topics, such as the economy, geo-politics, and more.
