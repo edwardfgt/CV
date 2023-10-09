@@ -1,18 +1,22 @@
+
 <h1 align="center"> Hi I'm <a href="https://www.linkedin.com/in/edwardthomas99/">Edward</a> </h1>
 
 <h1 id="about-me"> About Me </h1>
 I am a resilient and driven full-stack developer with a deep passion for learning in all areas of life. I recently graduated from Makers Academy Bootcamp, where I gained valuable experience collaborating on multiple team projects and pair programming daily. I have the ability to pick up new languages and frameworks quickly and have a solid understanding of object-oriented languages such as Ruby and JavaScript.
 
-Before Makers I worked in Digital Marketing, but have always had a passion for tech. Over the past year I also co-founded a collection of newsletters covering Finance, AI & Crypto, which grew to over 25,000 readers and 400,000 total impressions. 
+Before Makers I worked in Digital Marketing, but have always had a passion for tech. Over the past year I also co-founded a collection of newsletters covering Finance, AI & Crypto, which grew to over 40,000 readers and 1.5 million total impressions. 
+
 Outside of work I love studying Mandarin. I have been studying Mandarin for nearly 5 years now, and had the opportunity to improve my speaking ability first hand whilst studying in Taiwan. I still spend my weekends communicating with my Chinese teacher and learning new vocabulary.
 
 <h1 id="projects"> My Favourite Projects <img src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e470f0oewhhv0rz77jd5i3g92pnd9ifisk3u2ymxxv5&rid=giphy.gif&ct=g" width="75" ></h1>
 
 | Name                         | Description                                                                                     | Tech/tools                          |
 | ---------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
-|  [**Japanese Learning RPG**](https://github.com/edwardfgt/Japanese-learning-RPG)             | A gamified Japanese language learning web application.| React, JavaScript, Node, MongoDB, Express, Redux Toolkit, Redux Persist, HTML, CSS, Tailwind, Jest, Cypress, ESLint, Mongoose |
-|  [**Acebook**](https://github.com/edwardfgt/acebook)             | Working from an existing codebase to develop a social media clone.| MERN Stack, React, JavaScript, Node, MongoDB, Express, HTML, CSS, Jest, Cypress, Mongoose |
-|  [**Chitter**](https://github.com/edwardfgt/chitter-challenge)             | A weekend project to clone Twitter.| Ruby, Sinatra, Postgresql, Rspec,  |
+|  [**Japanese Learning RPG**](https://github.com/edwardfgt/Japanese-learning-RPG)             | A gamified Japanese language learning web application.| React, JavaScript, Node, MongoDB, Express, Redux Toolkit, Redux Persist, HTML, CSS, Tailwind, Jest, Cypress, ESLint, Mongoose. |
+|  [**Newsletter Company Website**](https://github.com/edwardfgt/journals-full-stack)             | A website for the holding company of my newsletter business. | React, AWS API Gateway, AWS Amplify, AWS SES, AWS Lambda.  |
+|  [**Acebook**](https://github.com/edwardfgt/acebook)             | Working from an existing codebase to develop a social media clone.| MERN Stack, React, JavaScript, Node, MongoDB, Express, HTML, CSS, Jest, Cypress, Mongoose. |
+|  [**Newsletter Sponsor Scraper**](https://github.com/edwardfgt/newsletter-sponsors)             | An Internal Python tool used to create lead lists by scraping Newsletters. | Python, OpenAI API, Gmail API, Google Sheets API, PyMongo, MongoDB.   |
+|  [**Eloquent Javascript**](https://github.com/edwardfgt/Eloquent-Javascript)             | My solutions to the exercises in the book Eloquent Javascript by Marijn Haverbeke.| Node, Javascript.  |
 
 <h1 id="education"> Education </h1>
 
@@ -47,8 +51,8 @@ Outside of work I love studying Mandarin. I have been studying Mandarin for near
 **Journals GG** (April 2022 - Ongoing)  
 **_Co-founder_**
 
--   Co-founded a collection of newsletters covering Finance, AI & Crypto with over 25,000 readers and 400,000 total impressions.
--   Analysed data and conducted split tests to improve metrics such as open rates & CTRs
+-   Co-founded a collection of newsletters covering Finance, AI & Crypto with over 40,000 readers and 1.5 million total impressions.
+-   Understanding customer needs through analysing data, conducting split tests and directly engaging with our readers to improve metrics such as open rates & CTRs.
 -   Negotiated with advertisers to bulk-buy ad packages.
 
 **Anuncia** (March 2020 - April 2022) <br/>
@@ -89,7 +93,7 @@ As the founder of my own newsletter company, I have had numerous opportunities t
 
 <h1 id="hobbies"> Hobbies </h1>
 
-📖 I'm a massive fan of reading both non-fiction and fiction. Two books I recently read and really enjoyed are Red Notice by Bill Browder and This Is How They Tell Me The World Ends by Nicole Perlroth. Next on my list is The Brothers Karamazov.
+📖 I'm a massive fan of reading both non-fiction and fiction. Two books I recently read and really enjoyed are Red Notice by Bill Browder and Tycoons by Charles R. Morris. You can find what I'm reading on [goodreads](https://www.goodreads.com/user/show/166036548-edward-thomas).
 
 ☕ I love Coffee, both making it myself and trying new cafes. I have a long list of my favourite cafes in London, if you would like some recommendations, let me know!
 
