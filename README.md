@@ -10,6 +10,8 @@ Outside of work I love studying Mandarin. I have been studying Mandarin for near
 
 <h1 id="projects"> My Favourite Projects <img src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e470f0oewhhv0rz77jd5i3g92pnd9ifisk3u2ymxxv5&rid=giphy.gif&ct=g" width="75" ></h1>
 
+I recently started building a [*blog*](https://www.edwardfgt.com/blog) using Astro, I haven't posted too many posts yet but I'm looking forward to writing more.
+
 | Name                         | Description                                                                                     | Tech/tools                          |
 | ---------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
 |  [**Japanese Learning RPG**](https://github.com/edwardfgt/Japanese-learning-RPG)             | A gamified Japanese language learning web application.| React, JavaScript, Node, MongoDB, Express, Redux Toolkit, Redux Persist, HTML, CSS, Tailwind, Jest, Cypress, ESLint, Mongoose. |
@@ -17,6 +19,7 @@ Outside of work I love studying Mandarin. I have been studying Mandarin for near
 |  [**Acebook**](https://github.com/edwardfgt/acebook)             | Working from an existing codebase to develop a social media clone.| MERN Stack, React, JavaScript, Node, MongoDB, Express, HTML, CSS, Jest, Cypress, Mongoose. |
 |  [**Newsletter Sponsor Scraper**](https://github.com/edwardfgt/newsletter-sponsors)             | An Internal Python tool used to create lead lists by scraping Newsletters. | Python, OpenAI API, Gmail API, Google Sheets API, PyMongo, MongoDB.   |
 |  [**Eloquent Javascript**](https://github.com/edwardfgt/Eloquent-Javascript)             | My solutions to the exercises in the book Eloquent Javascript by Marijn Haverbeke.| Node, Javascript.  |
+|  [**ZKsync Checker**](https://github.com/edwardfgt/zksync-checker/tree/main)             | A simple Vue app which allows users to check their ZKsync across multiple wallets with speed. | Vue.js  |
 
 <h1 id="education"> Education </h1>
 
@@ -32,7 +35,7 @@ Outside of work I love studying Mandarin. I have been studying Mandarin for near
 -   Frequently used branch/PR/merge git workflow and code reviews
 
 
-#### Nottingham Trent University (May 2021 - August 2021)
+#### Nottingham Trent University (2017 - 2021)
 
 -   International Business with Chinese
 -   Grade: 1st
@@ -51,9 +54,11 @@ Outside of work I love studying Mandarin. I have been studying Mandarin for near
 **Journals GG** (April 2022 - Ongoing)  
 **_Co-founder_**
 
--   Co-founded a collection of newsletters covering Finance, AI & Crypto with over 40,000 readers and 1.5 million total impressions.
--   Understanding customer needs through analysing data, conducting split tests and directly engaging with our readers to improve metrics such as open rates & CTRs.
+-   Co-founded a collection of newsletters covering Finance, AI & Crypto with over 40,000 readers and 5 million total impressions.
+-   Understand customer needs through analysing data, conducting split tests and directly engaging with our readers to improve metrics such as open rates & CTRs.
+- Built a [Python tool](https://github.com/edwardfgt/newsletter-sponsors) to speed up sales prospecting which generated thousands in revenue.
 -   Negotiated with advertisers to bulk-buy ad packages.
+-  Launched an agency arm that launches joint ventures with Youtubers to help them grow and monetise their own audience even further.
 
 **Anuncia** (March 2020 - April 2022) <br/>
 _**Business Development Specialist**_ (June 2021 - April 2022)  
